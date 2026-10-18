@@ -120,4 +120,6 @@ Installing a plugin makes its skills available, and sdd-kit doesn't load them on
 
 ## License
 
-This repository doesn't include a licence file yet. Each listed plugin is covered by its own licence.
+Copyright 2026 Daniel Torres Candil.
+
+The marketplace catalogue and documentation in this repository are licensed under the [Apache License, Version 2.0](LICENSE). Each listed plugin is covered by its own licence, which this repository doesn't change: sdd-kit is Apache-2.0, and external plugins keep whatever licence their authors chose.

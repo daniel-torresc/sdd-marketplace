@@ -13,6 +13,7 @@
         "repo": "daniel-torresc/sdd-kit"
       },
       "description": "Spec-driven development as a set of skills: onboard a project, then take each feature from an approved specification through design, build, verification and documentation to a pull request the human merges.",
+      "license": "Apache-2.0",
       "category": "methodology",
       "tags": ["sdd", "spec-driven-development", "methodology", "workflow"]
     }
