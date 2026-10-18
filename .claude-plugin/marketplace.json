@@ -1,0 +1,20 @@
+{
+  "name": "sdd-marketplace",
+  "description": "sdd-kit, the spec-driven development (SDD) methodology for AI coding agents, and the plugins curated to work alongside it.",
+  "owner": {
+    "name": "Daniel Torres Candil",
+    "email": "daniel.torrescandil@hotmail.com"
+  },
+  "plugins": [
+    {
+      "name": "sdd-kit",
+      "source": {
+        "source": "github",
+        "repo": "daniel-torresc/sdd-kit"
+      },
+      "description": "Spec-driven development as a set of skills: onboard a project, then take each feature from an approved specification through design, build, verification and documentation to a pull request the human merges.",
+      "category": "methodology",
+      "tags": ["sdd", "spec-driven-development", "methodology", "workflow"]
+    }
+  ]
+}
